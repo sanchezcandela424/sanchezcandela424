@@ -1,5 +1,8 @@
 # Cande Sanchez
-** Full Stack AI Engineer | Next.js, node.js, Python | AI Agents ** &middot; Agentina
+
+## Full Stack AI Engineer | Next.js, node.js, Python | AI Agents  
+
+## Concepción del Uruguay, Agentina
 
 I'm a Full-Stack Software Engineer with experience building, debugging, testing, and maintaining web
 applications and software systems, with a specialization in AI agent development and business automation.
